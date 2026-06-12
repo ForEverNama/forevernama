@@ -10,9 +10,6 @@ Hi there, I'm Duyu Nama<br>I'm an Economics student and tech enthusiast based in
 ![](https://streak-stats.demolab.com/?user=ForEverNama&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ForEverNama&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ForEverNama&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
